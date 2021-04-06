@@ -1,0 +1,10 @@
+D:\Code\C#\Winform\CSDL_MrPhuong\CSDL_MrPhuong\CSDL_MrPhuong\bin\Debug\CSDL_MrPhuong.exe.config
+D:\Code\C#\Winform\CSDL_MrPhuong\CSDL_MrPhuong\CSDL_MrPhuong\bin\Debug\CSDL_MrPhuong.exe
+D:\Code\C#\Winform\CSDL_MrPhuong\CSDL_MrPhuong\CSDL_MrPhuong\bin\Debug\CSDL_MrPhuong.pdb
+D:\Code\C#\Winform\CSDL_MrPhuong\CSDL_MrPhuong\CSDL_MrPhuong\obj\Debug\CSDL_MrPhuong.csprojAssemblyReference.cache
+D:\Code\C#\Winform\CSDL_MrPhuong\CSDL_MrPhuong\CSDL_MrPhuong\obj\Debug\CSDL_MrPhuong.Form1.resources
+D:\Code\C#\Winform\CSDL_MrPhuong\CSDL_MrPhuong\CSDL_MrPhuong\obj\Debug\CSDL_MrPhuong.Properties.Resources.resources
+D:\Code\C#\Winform\CSDL_MrPhuong\CSDL_MrPhuong\CSDL_MrPhuong\obj\Debug\CSDL_MrPhuong.csproj.GenerateResource.cache
+D:\Code\C#\Winform\CSDL_MrPhuong\CSDL_MrPhuong\CSDL_MrPhuong\obj\Debug\CSDL_MrPhuong.csproj.CoreCompileInputs.cache
+D:\Code\C#\Winform\CSDL_MrPhuong\CSDL_MrPhuong\CSDL_MrPhuong\obj\Debug\CSDL_MrPhuong.exe
+D:\Code\C#\Winform\CSDL_MrPhuong\CSDL_MrPhuong\CSDL_MrPhuong\obj\Debug\CSDL_MrPhuong.pdb
